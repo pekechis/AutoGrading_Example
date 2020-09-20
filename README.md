@@ -1,24 +1,15 @@
-# Entregas de programación
+# Repositorio con un ejemplo de AutoGrading para gitHubClassroom
+##### Para proyectos java en Intellij
 
-## Uso
 
-Utilice primero el comando javac para compilar el fichero .java y luego el comando java para ejecutar el bytecode obtenido.
+## Pasos para usar el Autograding en GitHubClassroom
 
-```bash
-$ javac HolaMundo.java
-$ java HolaMundo
-```
 
-## Explicación de código principal
-Ejemplo de código:
 
-```java
-public class HolaMundo {
-    	public static void main(String[] args) {		
-    		System.out.println("Hola Mundo");
-    	}
-}
-```
+
+## Estructura del código
+
+
 ## Tabla de ejemplo
 
 | Cabecera1| Cabecera2 |
@@ -28,7 +19,7 @@ public class HolaMundo {
 
 
 ## Mejoras / Bugs conocidos
-Se podría mejorar con un punto al final de la cadena.
+
 
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
